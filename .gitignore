@@ -1,0 +1,11 @@
+.dart_tool/
+.packages
+build/
+.pub-cache/
+.env*
+local.properties
+*.jks
+*.keystore
+*.apk
+*.aab
+*.log
